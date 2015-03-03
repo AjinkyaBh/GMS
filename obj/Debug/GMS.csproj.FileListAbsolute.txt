@@ -1,0 +1,180 @@
+E:\GMS\bin\Debug\GMS.exe
+E:\GMS\obj\Debug\ResolveAssemblyReference.cache
+E:\GMS\obj\Debug\GMS.Customer_info.resources
+E:\GMS\obj\Debug\GMS.password.resources
+E:\GMS\obj\Debug\GMS.Home_Page.resources
+E:\GMS\obj\Debug\GMS.new_enquiry.resources
+E:\GMS\obj\Debug\GMS.payment.resources
+E:\GMS\obj\Debug\GMS.payment_trainer.resources
+E:\GMS\obj\Debug\GMS.Properties.Resources.resources
+E:\GMS\obj\Debug\GMS.csproj.GenerateResource.Cache
+E:\GMS\obj\Debug\GMS.exe
+E:\GMS\obj\Debug\GMS.pdb
+E:\GMS\bin\Debug\GMS.pdb
+E:\GMS\obj\Debug\GMS.Admission.resources
+C:\Users\Swapnil\Desktop\GMS\obj\Debug\GMS.exe
+C:\Users\Swapnil\Desktop\GMS\obj\Debug\GMS.pdb
+C:\Users\Swapnil\Desktop\GMS\bin\Debug\GMS.exe
+C:\Users\Swapnil\Desktop\GMS\bin\Debug\GMS.pdb
+C:\Users\Swapnil\Desktop\GMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Swapnil\Desktop\GMS\obj\Debug\GMS.Customer_info.resources
+C:\Users\Swapnil\Desktop\GMS\obj\Debug\GMS.Admission.resources
+C:\Users\Swapnil\Desktop\GMS\obj\Debug\GMS.password.resources
+C:\Users\Swapnil\Desktop\GMS\obj\Debug\GMS.Home_Page.resources
+C:\Users\Swapnil\Desktop\GMS\obj\Debug\GMS.new_enquiry.resources
+C:\Users\Swapnil\Desktop\GMS\obj\Debug\GMS.payment.resources
+C:\Users\Swapnil\Desktop\GMS\obj\Debug\GMS.payment_trainer.resources
+C:\Users\Swapnil\Desktop\GMS\obj\Debug\GMS.Properties.Resources.resources
+C:\Users\Swapnil\Desktop\GMS\obj\Debug\GMS.csproj.GenerateResource.Cache
+C:\Users\Swapnil\Desktop\GMS\obj\Debug\GMS.gap_form.resources
+D:\GMS\obj\Debug\GMS.exe
+D:\GMS\obj\Debug\GMS.pdb
+D:\GMS\bin\Debug\GMS.exe
+D:\GMS\obj\Debug\ResolveAssemblyReference.cache
+D:\GMS\obj\Debug\GMS.Customer_info.resources
+D:\GMS\obj\Debug\GMS.Admission.resources
+D:\GMS\obj\Debug\GMS.gap_form.resources
+D:\GMS\obj\Debug\GMS.password.resources
+D:\GMS\obj\Debug\GMS.Home_Page.resources
+D:\GMS\obj\Debug\GMS.new_enquiry.resources
+D:\GMS\obj\Debug\GMS.payment.resources
+D:\GMS\obj\Debug\GMS.payment_trainer.resources
+D:\GMS\obj\Debug\GMS.Properties.Resources.resources
+D:\GMS\obj\Debug\GMS.csproj.GenerateResource.Cache
+D:\GMS\bin\Debug\GMS.pdb
+D:\GMS\obj\Debug\GMS.Emp_Attendence.resources
+D:\GMS\obj\Debug\GMS.Cus_Attendence.resources
+D:\GMS\obj\Debug\GMS.Emp_Pay_Repo.resources
+C:\Users\Swapnil\Desktop\GMS\obj\Debug\GMS.Cus_Attendence.resources
+C:\Users\Swapnil\Desktop\GMS\obj\Debug\GMS.Emp_Attendence.resources
+C:\Users\Swapnil\Desktop\GMS\obj\Debug\GMS.Emp_Pay_Repo.resources
+C:\Users\Swapnil\Desktop\GMS\obj\Debug\GMS.add_trainer.resources
+C:\Users\Swapnil\Desktop\GMS\obj\Debug\GMS.add_plan.resources
+E:\DotNet\GMS\bin\Debug\GMS.exe
+E:\DotNet\GMS\bin\Debug\GMS.pdb
+E:\DotNet\GMS\obj\Debug\ResolveAssemblyReference.cache
+E:\DotNet\GMS\obj\Debug\GMS.add_plan.resources
+E:\DotNet\GMS\obj\Debug\GMS.add_trainer.resources
+E:\DotNet\GMS\obj\Debug\GMS.admission_info_update.resources
+E:\DotNet\GMS\obj\Debug\GMS.change_pass.resources
+E:\DotNet\GMS\obj\Debug\GMS.cost_report.resources
+E:\DotNet\GMS\obj\Debug\GMS.Customer_info.resources
+E:\DotNet\GMS\obj\Debug\GMS.Admission.resources
+E:\DotNet\GMS\obj\Debug\GMS.Emp_Attendence.resources
+E:\DotNet\GMS\obj\Debug\GMS.Emp_Pay_Repo.resources
+E:\DotNet\GMS\obj\Debug\GMS.extension.resources
+E:\DotNet\GMS\obj\Debug\GMS.gap_form.resources
+E:\DotNet\GMS\obj\Debug\GMS.password.resources
+E:\DotNet\GMS\obj\Debug\GMS.Home_Page.resources
+E:\DotNet\GMS\obj\Debug\GMS.new_enquiry.resources
+E:\DotNet\GMS\obj\Debug\GMS.payment.resources
+E:\DotNet\GMS\obj\Debug\GMS.payment_trainer.resources
+E:\DotNet\GMS\obj\Debug\GMS.Properties.Resources.resources
+E:\DotNet\GMS\obj\Debug\GMS.csproj.GenerateResource.Cache
+E:\DotNet\GMS\obj\Debug\GMS.exe
+E:\DotNet\GMS\obj\Debug\GMS.pdb
+E:\DotNet\GMS\obj\Debug\GMS.emp_report.resources
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.exe
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.pdb
+C:\Users\ISTR\Desktop\akash\GMS\bin\Debug\GMS.exe
+C:\Users\ISTR\Desktop\akash\GMS\bin\Debug\GMS.pdb
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.add_plan.resources
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.add_trainer.resources
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.admission_info_update.resources
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.change_pass.resources
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.cost_report.resources
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.Customer_info.resources
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.Admission.resources
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.Emp_Attendence.resources
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.Emp_Pay_Repo.resources
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.emp_report.resources
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.extension.resources
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.gap_form.resources
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.msg_box.resources
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.password.resources
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.Home_Page.resources
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.new_enquiry.resources
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.payment.resources
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.payment_trainer.resources
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.Properties.Resources.resources
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.csproj.GenerateResource.Cache
+C:\Users\ISTR\Desktop\akash\GMS\obj\Debug\GMS.add_remove_msg.resources
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.exe
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.pdb
+C:\Users\ISTR\Desktop\Backup Aki\GMS\bin\Debug\GMS.exe
+C:\Users\ISTR\Desktop\Backup Aki\GMS\bin\Debug\GMS.pdb
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.add_plan.resources
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.add_remove_msg.resources
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.add_trainer.resources
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.admission_info_update.resources
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.change_pass.resources
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.cost_report.resources
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.Customer_info.resources
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.Admission.resources
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.Emp_Attendence.resources
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.Emp_Pay_Repo.resources
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.emp_report.resources
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.extension.resources
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.gap_form.resources
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.msg_box.resources
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.password.resources
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.Home_Page.resources
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.new_enquiry.resources
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.payment.resources
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.payment_trainer.resources
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.Properties.Resources.resources
+C:\Users\ISTR\Desktop\Backup Aki\GMS\obj\Debug\GMS.csproj.GenerateResource.Cache
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.exe
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.pdb
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\bin\Debug\GMS.exe
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.add_plan.resources
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.add_remove_msg.resources
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.add_trainer.resources
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.admission_info_update.resources
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.change_pass.resources
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.cost_report.resources
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.Customer_info.resources
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.Admission.resources
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.Emp_Attendence.resources
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.Emp_Pay_Repo.resources
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.emp_report.resources
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.extension.resources
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.gap_form.resources
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.msg_box.resources
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.password.resources
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.Home_Page.resources
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.new_enquiry.resources
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.payment.resources
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.payment_trainer.resources
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.Properties.Resources.resources
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\obj\Debug\GMS.csproj.GenerateResource.Cache
+C:\Users\ISTR\Desktop\New folder\Backup Aki\GMS\bin\Debug\GMS.pdb
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.exe
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.pdb
+C:\Users\SUMEDH\Desktop\GMS\bin\Debug\GMS.exe
+C:\Users\SUMEDH\Desktop\GMS\bin\Debug\GMS.pdb
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.add_plan.resources
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.add_remove_msg.resources
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.add_trainer.resources
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.admission_info_update.resources
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.change_pass.resources
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.cost_report.resources
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.Customer_info.resources
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.Admission.resources
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.Emp_Attendence.resources
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.Emp_Pay_Repo.resources
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.emp_report.resources
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.extension.resources
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.gap_form.resources
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.msg_box.resources
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.password.resources
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.Home_Page.resources
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.new_enquiry.resources
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.payment.resources
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.payment_trainer.resources
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.Properties.Resources.resources
+C:\Users\SUMEDH\Desktop\GMS\obj\Debug\GMS.csproj.GenerateResource.Cache
